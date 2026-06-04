@@ -1,0 +1,58 @@
+# Employment Trends & Industry Insights (2024–2025)
+
+
+## Which industries employ the most workers?
+
+Health Care & Social Assistance was the largest employer in the dataset, accounting for approximately 21.0% of total employment. Professional & Business Services followed closely at 20.2%, meaning these two industries represented more than 40% of total employment.
+
+Leisure & Hospitality accounted for 15.2% of employment, followed by Retail Trade (13.9%) and Manufacturing (11.4%). Together, these industries represented the majority of jobs in the dataset.
+
+Financial Activities (8.3%), Construction (7.4%), and Information (2.6%) accounted for a smaller share of total employment.
+
+---
+
+## Which industries are growing or declining?
+
+Health Care & Social Assistance recorded the strongest year-over-year employment growth at approximately +3.5%, making it the highest-growth industry in the dataset.
+
+Construction (+0.7%), Leisure & Hospitality (+0.6%), and Financial Activities (+0.4%) also recorded positive employment growth.
+
+Retail Trade experienced a slight decline (−0.3%), while Professional & Business Services (−0.7%) and Manufacturing (−1.2%) showed larger employment decreases.
+
+Information recorded the largest year-over-year decline at approximately −2.1%, making it the weakest-performing industry during the period analyzed.
+
+---
+
+## Which industries are growing the fastest?
+
+Health Care & Social Assistance demonstrated the strongest month-over-month growth, averaging approximately +0.25% per month**, making it the most consistent source of employment growth in the dataset.
+
+Leisure & Hospitality and Financial Activities recorded smaller positive monthly gains, while Manufacturing, Professional & Business Services, and Information experienced slight monthly declines.
+
+Overall, employment growth was concentrated in a limited number of industries rather than being broadly distributed across the labor market.
+
+---
+
+## What are the seasonal hiring patterns?
+
+Using non-seasonally adjusted benchmark revised BLS data reveals noticeable seasonal employment patterns across several industries.
+
+Construction generally showed stronger employment levels during spring and summer months and slower growth during colder months.
+
+Retail Trade displayed seasonal increases toward the end of the year followed by declines after the holiday period.
+
+Leisure & Hospitality also showed recurring seasonal fluctuations throughout the year.
+
+In contrast, Health Care & Social Assistance exhibited relatively small seasonal changes compared with other industries.
+
+---
+
+## Which industries are stable or volatile?
+
+Health Care & Social Assistance was the most stable industry in the dataset, showing relatively small month-to-month fluctuations alongside consistent long-term growth.
+
+Financial Activities and Manufacturing also exhibited comparatively stable employment patterns.
+
+Retail Trade and Leisure & Hospitality demonstrated moderate variability, while Construction showed greater fluctuations throughout the year.
+
+Information was the most volatile industry, recording the largest employment variability and the steepest year-over-year decline (−2.1%).
