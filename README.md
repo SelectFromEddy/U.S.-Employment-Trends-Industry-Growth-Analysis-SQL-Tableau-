@@ -22,6 +22,7 @@
 
    Overall, the data highlights a labor market driven by service-oriented industries, 
    with Health Care & Social Assistance leading both employment share and job growth. Meanwhile, Information, Manufacturing, and Retail Trade faced employment declines, reflecting uneven growth across the economy.
+
 --- 
 
      ## Business Problem
