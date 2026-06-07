@@ -1,5 +1,5 @@
-   U.S. Employment Trends & Industry Growth Analysis
-   Started: 03/15/2026
+   **U.S. Employment Trends & Industry Growth Analysis
+   Started: 03/15/2026**
 
 ---
 
@@ -24,8 +24,8 @@
    with Health Care & Social Assistance leading both employment share and job growth. Meanwhile, Information, Manufacturing, and Retail Trade faced employment declines, reflecting uneven growth across the economy.
 
 --- 
-
-     ## Business Problem
+  
+  ## Business Problem
    Understanding how employment shifts across major industries is essential for workforce planning, 
    economic forecasting, and strategic business decisions. Companies, policymakers, 
    and economists rely on labor market data to understand where job growth is occurring and which industries may be declining.
